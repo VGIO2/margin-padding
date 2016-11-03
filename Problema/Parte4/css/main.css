@@ -18,3 +18,9 @@
     width: 200px;
     border: 1px solid #FF8C00;
 }
+.navegador{
+    width: 220px;
+    height: 0px;
+    text-align:right;
+    font-size: 20px;
+}
