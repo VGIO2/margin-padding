@@ -1,0 +1,21 @@
+/* Agrega aqui tu CSS */
+*{
+    margin: 10px;
+    padding: 0px;
+}
+body{
+    background: white;
+}
+#main{
+    
+    background-color: white;
+    float: left;
+}
+.P1{
+    width: 220px;
+    background-color: white;
+    
+    border: 3px #FF8C00 solid; 
+}
+
+p,h4{ padding: 2px 10px;}

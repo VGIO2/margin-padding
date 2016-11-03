@@ -1,0 +1,20 @@
+/* Agrega aqui tu CSS */
+#main{
+    
+    background-color:white;
+    
+}
+
+#P1{
+    width: 200px;
+    
+    border: 1px solid #FF8C00;
+}
+#P2{
+    width: 200px;
+    border: 1px solid #FF8C00;
+}
+#P3{
+    width: 200px;
+    border: 1px solid #FF8C00;
+}
